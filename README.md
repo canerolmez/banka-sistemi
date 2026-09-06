@@ -16,7 +16,6 @@ Java ile geliştirilmiş, konsol üzerinden çalışan temel bir banka sistemi u
 
 * Java
 * ArrayList
-* Apache NetBeans
 * Visual Studio Code
 * Git ve GitHub
 
