@@ -1,0 +1,15 @@
+# Java derleme ciktilari
+build/
+bin/
+out/
+dist/
+*.class
+*.jar
+
+# NetBeans kullaniciya ozel ayarlari
+nbproject/private/
+
+# Isletim sistemi gecici dosyalari
+.DS_Store
+Thumbs.db
+
