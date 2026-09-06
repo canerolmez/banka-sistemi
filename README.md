@@ -51,13 +51,6 @@ Visual Studio Code ile `Banka Sistemi` klasörünü açın. Ardından `src/main/
 
 Visual Studio Code üzerinde **Extension Pack for Java** eklentisinin kurulu olması gerekir.
 
-## Gelecekte Eklenebilecek Özellikler
-
-* İşlem geçmişini kaydetme
-* Hesaplar arası para transferi
-* Verileri dosyada veya veritabanında saklama
-* Hata yönetimi
-* Birim testleri
 
 ## Geliştirici
 
